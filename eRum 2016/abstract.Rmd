@@ -1,0 +1,10 @@
+---
+title: "Addressing the Gender Gap in the R Project"
+author: "Heather Turner"
+date: "21 May 2016"
+output: html_document
+---
+
+Despite R's origins in the discipline of statistics and the strong uptake of R in fields such as ecology and genomics, where women are well represented in the workforce, the R developer community looks more like that of computer science generally, where women are in a distinct minority. If we consider contributions to the R project, the situation is even worse. How can we encourage more women to become developers and leaders in the R community?
+
+Earlier this year the R Foundation, a not-for-profit organisation set up to support the R project (https://www.r-project.org/foundation/), established a task force to explore this question and to take actions to address the gender gap (http://forwards.github.io/, https://twitter.com/RWomenTaskforce). In this talk I will give an overview of the activities of the taskforce so far and our plans for the future. I will also share some tips for women looking to get more involved and ideas of ways everyone can help to make our community more inclusive.

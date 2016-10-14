@@ -1,0 +1,26 @@
+convert "useR2015-1_orig.jpg" -quality 75% useR2015-1.jpg
+convert "useR2015-2_orig.jpg" -quality 75% useR2015-2.jpg
+convert "useR2015-3_orig.jpg" -quality 75% useR2015-3.jpg
+convert "useR2015-4_orig.jpg" -quality 75% useR2015-4.jpg
+
+convert "alicia_oshlack_orig.jpg" -geometry x90 alicia_oshlack.jpg 
+convert "kevin_obrien_orig.jpg" -geometry x90 kevin_obrien.jpg
+convert "jenny_bryan_orig.jpg" -geometry x90 jenny_bryan.jpg
+convert "heather_turner_orig.jpg" -geometry x90 heather_turner.jpg
+convert "michael_lawrence_orig.png" -geometry x90 michael_lawrence.jpg
+
+convert "pyladiesDC_orig.jpg" -geometry x380 pyladiesDC.jpg
+
+convert "france_rug_orig.png" -geometry x500 france_rug_orig.png
+
+convert "codinggrace-logo_orig.jpg" -geometry x95 codinggrace-logo.png
+
+convert "GSoc2016.png" -geometry x550 GSoc2016.jpg
+convert "issue_orig.png" -geometry x450 issue.png
+convert "runconf3_orig.jpg" -geometry x450 runconf3.jpg
+convert "twitter_orig.png" -geometry x400 twitter.png
+convert "forwards_orig.png" -geometry x400 forwards.png
+
+
+
+
