@@ -16,18 +16,6 @@ output:
 #### and Heather Turner, Jenny Bryan, Julie Josse, Oliver Keyes, Michael Lawrence, <br/>Kevin O'Brien, Alicia Oshlack, Carolin Strobl
 #### <br> Oct 20, 2016
 
-## To add
-
-R-Ladies Melbourne
-
-ROpenSci
-
-useR! 2007
-
-update useR! 2016
-
-JCGS
-
 ## The R Community - 2007
 
 <small>
@@ -137,7 +125,7 @@ R-forge&#185;
 
 ## Publications: JCGS
 
-<img height="550" src="JCGS.pdf">
+<img height="550" src="JCGS.png">
 
 ## Where should we be?
 
