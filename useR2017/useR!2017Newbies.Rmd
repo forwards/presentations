@@ -1,0 +1,163 @@
+---
+title: "useR!2017 Newbies"
+author: "Julie Josse"
+output:
+  ioslides_presentation: default
+  css: style.css
+  beamer_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning  = FALSE)
+```
+
+
+## Welcome
+
+
+
+- First Newbies session
+
+- Introduction to the conference and the wider R community
+
+- Short talks, open discussion and informal networking
+
+<img height = "140" src="user2017logo.jpg">
+<img height = "150" src="Rlogo.png">
+
+## Program
+
+- Julie Josse: Introduction & Intro to Forwards
+- Erin LeDell: Introduction to R-Ladies
+- David Smith: The R ecosystem
+- Kevin O’Brien: Navigating the R community
+- Laure Cougnaud: Making the most of useR!
+- Break
+
+- Heather Turner: useR! abstract review: what the program committee look for
+- Maëlle Salmon: rOpenSci onboarding system and community
+- Charlotte Wickham: Collaborative coding
+- Julia Silge: Making a career from coding
+
+- Gathering, drinks 
+
+# R Forwards taskforce on women and other underrepresented groups
+
+<img height = "150" src="logo.png">
+
+## Presentation
+   Aim: improve the participation and experience of underepresented groups in the R community.
+ 
+- R foundation task force set up in December 2015 to address the underrepresentation of women (Rwomen)
+
+<!--There is a gender gap in both user and developer communities
+Women in R Taskforce has been established to address this.-->
+
+- Rebranded in January 2017 to accomodate more underepresented groups: LGBT, minority ethnic groups, people with disabilities 
+
+- Website: https://forwards.github.io/
+<img height = "110" src="Rforwardswebsite.png"></td>
+- Tweets: @R_Forwards
+
+## Core team
+
+<div align = "center">
+<table id="nogrid">
+<tr>
+<td style="width:130px"><img height = "90" src="jenny_bryan.jpg"></td>
+<td>Jenny Bryan</br>CA</td>
+<td><img height = "90" src="alicia_oshlack.jpg"></td>
+<td> Alicia Oshlack</br>AU</td>
+<td><img height = "90" src="jonathangodfrey.jpg"></td>
+<td>Jonathan Godfrey</br>NZ</td>
+</tr>
+
+<tr>
+<td><img height = "90" src="di_cook.jpg"></td>
+<td> Di Cook</br>AU</td>
+<td><img height = "90" src="carolin_strobl.jpg"></td>
+<td> Carolin Strobl</br>CH</td>
+<td><img height = "90" src="kevin_obrien.jpg"></td>
+<td> Kevin O'Brien</br>IE</td>
+</tr>
+
+<tr>
+<td><img height = "90" src="julie_josse.jpg"></td>
+<td>Julie Josse</br>FR</td>
+<td><img height = "90" src="heather_turner.jpg"></td>
+<td> Heather Turner</br>UK</td>
+<td><img height = "90" src="michael_lawrence.jpg"></td>
+<td> Michael Lawrence</br>US</td>
+</tr>
+
+<tr>
+<td><img height = "90" src="emilydodwell.jpg"></td>
+<td>Emily Dodwell</br>US</td>
+<td><img height = "90" src="ginagriffin.jpeg"></td>
+<td> Gina Griffin</br>US</td>
+<td><img height = "90" src="tracyshen.jpg"></td>
+<td> Tracy Shen </br>US</td>
+</tr>
+
+<tr>
+<td><img height = "90" src="davidsmith.jpg"></td>
+<td>David Smith </br>US</td>
+<td><img height = "90" src="jasminedumas.jpg"></td>
+<td>Jasmine Dumas</br>US</td>
+<td><img height = "90" src="madlenehamilton.jpg"></td>
+<td> Madlene Hamilton  </br>US</td>
+</tr>
+</table> 
+</div>
+
+## Subteams {.smaller}
+
+J. Lee, I. Mitra, N. Tamir
+G. Merchant, C. Wickham, W. Qin, 
+S. Bollman, R. Debelak, 
+J. Fox, M. Salmon, J. Robbins, A. Foulkes,
+H. Wickham.
+
+Forwards teleconf/ slackathons (virtual asynchronous meetings on slack) on alternate months - Github Repo
+
+- __Community__: General outreach to help people from under-represented groups get into R. Gina Griffin, Kevin O’Brien  
+
+- __On-ramps__: Creating paths for useRs to develop their skills and make contributions to the R/BioConductor ecosystem. Jenny Bryan, Michael Lawrence
+
+- __Social Media__: Posting to Twitter and/or Facebook, soliciting blog posts and publishing them, maintaining website. Tracy Shen, David Smith 
+
+- __Teaching__: Materials and workshops for under-represented groups. Isabella Gollini, Di Cook.
+
+- __Conferences__: liaising with OC/PC on policies and inclusion initiatives.  __Code of conducts, Childcare, Meet the diversity scholars, Conference buddies, R newbies session__ Heather Turner, Julie Josse
+
+
+
+ 
+## Subteams {.smaller}
+
+
+- __Survey__: Run and analyse community surveys, collect data (data page)
+Get input from the community on obstacles and ideas for improvements. Madlene Hamilton, Carolin Strobl, Jasmine Dumas 
+
+To know more the demographics and opinions: first survey during useR! 2016 participants
+
+- Blog posts: Mapping useRs, users-relationship-with-r, useRs Participation in the R Community
+- Reports: Non-response in useR! 2016 Survey, useR! 2016 participants and R programming: a multivariate analysis
+- R journal paper in preparation. 
+Stella Bollmann, Dianne Cook, Rudolf Debelak, Jasmine Dumas, John Fox, Julie Josse, Oliver Keyes, Carolin Strobl, Heather Turner. 
+
+You are invited to participate in the survey!
+
+__Wish you a terrific conference__
+
+
+
+  
+
+
+
+
+
+
+                                                   
+
